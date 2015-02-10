@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		014C1BF31A8ACC0300430339 /* Wire.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Wire.cpp; path = hardware/lm4f/libraries/Wire/Wire.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		01DB0C0C1A8AC04F000FDFDA = {
 			isa = PBXGroup;
 			children = (
+				014C1BF31A8ACC0300430339 /* Wire.cpp */,
 			);
 			sourceTree = "<group>";
 		};
